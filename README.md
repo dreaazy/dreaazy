@@ -1,4 +1,5 @@
-My name is Simone, I’m 17 years old and I’m a developer with experience in developing websites and mobile application for small businesses and entrepreneurs.
+#Hey,My name is Simone
+##I’m 18 years old and I’m a developer with experience in developing websites and mobile application for small businesses and entrepreneurs.
 
 My biggest passion is computer science, I love developing and make dreams of other people come true.
 
