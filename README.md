@@ -1,17 +1,15 @@
 # About Me
 
-Hey there! 👋 My name is Simone, and I'm an 18-year-old developer with a passion for computer science. I have experience in developing websites and mobile applications, particularly for small businesses and entrepreneurs.
+Hey there! 👋 I'm Simone, an 18-year-old with an insatiable hunger for knowledge and a strong affinity for technology and creativity. I'm a budding developer, specializing in crafting websites and mobile applications designed for small businesses and entrepreneurs.
 
 ## Background
 
-I'm currently in the last year of high school, and I'm excited to embark on my journey towards earning a degree in computer science. During my educational journey, I had the unique opportunity to spend six months in England at Bexhill College. There, I studied subjects such as English, Economics, Business, and Marketing. This experience has not only enriched my knowledge but also equipped me with the business skills necessary to create the best possible products for your projects.
+Currently navigating the final year of high school, I'm eagerly anticipating the pursuit of a degree in computer science. My educational journey took a unique turn when I spent six months at Bexhill College in England, exploring subjects such as English, Economics, Business, and Marketing. This experience not only broadened my horizons but also equipped me with essential business skills to enhance the quality of the products I create for your projects.
 
-## My Philosophy
+## My Interests
 
-I believe that effective communication is the cornerstone of achieving premium results. As your developer, I'm committed to maintaining open lines of communication with you throughout our collaboration. Whether you want to discuss project updates, make changes, or simply have a question, you can count on me to be readily available and responsive.
-
-If you have a project in mind or need assistance with web development or mobile applications, feel free to reach out to me anytime. I'm here to help you turn your dreams into reality!
+Beyond the world of computer science, my passions include music, science, physics, and artificial intelligence. These diverse interests fuel my creativity and drive to explore innovative solutions. I thrive on the excitement that comes from constantly expanding my knowledge base.
 
 ---
 
-Let's work together to bring your ideas to life. Feel free to [contact me](mailto:youremail@example.com) to get started.
+Let's work together to bring your ideas to life. Feel free to [contact me](mailto:piccinini.simone2005@gmail.com) to get started.
