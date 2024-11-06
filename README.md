@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm Simone, an 18-year-old with an insatiable hunger for knowledge and a strong affinity for technology and creativity.
+Hey there! 👋 I'm Simone, an 19-year-old with an insatiable hunger for knowledge and a strong affinity for technology and creativity.
 
 ## My Interests
 
